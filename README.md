@@ -296,6 +296,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed as a **Final Year Internship Project** — Hexaware Technologies.
+Developed by - **Siddharth Jagdale**
 
 Built with the **MERN Stack**: MongoDB · Express.js · React.js · Node.js
